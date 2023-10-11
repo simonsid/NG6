@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 16,
+    "horizontalStartingIndex": 8,
+    "horizontalWrap": true,
+    "name": "RB90.1",
+    "type": "KeyShotXR",
+    "verticalFrames": 5,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
